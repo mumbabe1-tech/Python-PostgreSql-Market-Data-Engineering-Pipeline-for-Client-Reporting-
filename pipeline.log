@@ -1,0 +1,9 @@
+2026-03-15 21:51:17,085 INFO pipeline started
+2026-03-15 21:51:17,381 INFO Extract done for AAPL: extracted 50 rows
+2026-03-15 21:51:17,541 INFO Extract done for MSFT: extracted 50 rows
+2026-03-15 21:51:17,728 INFO Extract done for GOOGL: extracted 50 rows
+2026-03-15 21:51:17,927 INFO Extract done for AMZN: extracted 50 rows
+2026-03-15 21:51:17,928 INFO Extract done for all symbols: Extracted 200 rows
+2026-03-15 21:51:18,000 INFO Transform done-200 rows
+2026-03-15 21:51:20,702 INFO Load done - 200 rows loaded into database
+2026-03-15 21:51:20,709 INFO pipeline finished successfully
